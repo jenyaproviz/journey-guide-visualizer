@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/9f90b9be-60c9-4e0b-add7-acba38ebc3da
+**URL**: https://journey-guide-visualizer.vercel.app/
 
 ## What technologies are used for this project?
 
